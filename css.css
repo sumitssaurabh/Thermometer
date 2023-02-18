@@ -1,0 +1,28 @@
+* {
+ 
+}
+
+body {
+  padding: 50px 100px;
+  background-color: rgb(156, 185, 175);
+}
+h1 {
+  text-align: center;
+}
+
+#count {
+  text-align: center;
+  color: rgb(234, 234, 234);
+  border: solid red;
+  background-color: black;
+  padding: 20px;
+  
+}
+
+.inp{
+    text-align: center;
+    margin: 2px;
+    font-weight: bold;
+    
+}
+
